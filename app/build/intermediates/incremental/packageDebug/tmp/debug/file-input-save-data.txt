@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Sat Aug 01 22:11:54 ICT 2020
+1.base=E\:\\Sourcode Android\\kotlin-instagram-clone\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+2.path=classes.dex
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=E\:\\Sourcode Android\\kotlin-instagram-clone\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+3.set=ASSET
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=post.json
+count=4
+1.set=DEX
+0.path=status.json
+3.base=E\:\\Sourcode Android\\kotlin-instagram-clone\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.set=ASSET
+0.base=E\:\\Sourcode Android\\kotlin-instagram-clone\\app\\build\\intermediates\\merged_assets\\debug\\out
+2.baseType=DIRECTORY
+1.path=classes.dex

@@ -1,0 +1,7 @@
+#Sat Aug 01 22:11:53 ICT 2020
+base.0=E\:\\Sourcode Android\\kotlin-instagram-clone\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\Sourcode Android\\kotlin-instagram-clone\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
